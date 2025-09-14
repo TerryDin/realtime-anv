@@ -1,10 +1,9 @@
 const languages = [
-    { name: 'English (US)', code: 'en-US' },
-    { name: 'Mandarin Chinese (China)', code: 'cmn-CN' },
+    { name: 'German (Germany)', code: 'de-DE' },
     { name: 'English (Australia)', code: 'en-AU' },
     { name: 'English (UK)', code: 'en-GB' },
     { name: 'English (India)', code: 'en-IN' },
-    { name: 'German (Germany)', code: 'de-DE' },
+    { name: 'English (US)', code: 'en-US' },
     { name: 'Spanish (US)', code: 'es-US' },
     { name: 'French (France)', code: 'fr-FR' },
     { name: 'Hindi (India)', code: 'hi-IN' },
@@ -26,6 +25,7 @@ const languages = [
     { name: 'Telugu (India)', code: 'te-IN' },
     { name: 'Dutch (Netherlands)', code: 'nl-NL' },
     { name: 'Korean (South Korea)', code: 'ko-KR' },
+    { name: 'Mandarin Chinese (China)', code: 'cmn-CN' },
     { name: 'Polish (Poland)', code: 'pl-PL' },
     { name: 'Russian (Russia)', code: 'ru-RU' },
     { name: 'Thai (Thailand)', code: 'th-TH' }
