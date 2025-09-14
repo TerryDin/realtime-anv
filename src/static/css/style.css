@@ -158,9 +158,21 @@ body {
     animation: audio-pulse 0.5s infinite;
 }
 
+.main-controls {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+#language-select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
 #connect-button {
     padding: 10px 20px;
-    margin-bottom: 10px;
     border: none;
     border-radius: 4px;
     background-color: #34a853;
